@@ -1,0 +1,9 @@
+Name,attainment_quarter,attainment_by_quarter,Attainment,attainment_multiplier
+Bob,Q1,301542.0,200000,Qualified
+Bob,Q2,140289.25,250000,non-Qualified
+Jane,Q1,59120.33333333333,100000,non-Qualified
+Jane,Q2,347576.22222222225,200000,Qualified
+Joe,Q1,239106.6666666667,200000,Qualified
+Joe,Q2,277540.0,250000,Qualified
+Lin,Q1,377355.0,400000,non-Qualified
+Lin,Q2,496872.0,450000,Qualified
