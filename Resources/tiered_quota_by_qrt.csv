@@ -1,0 +1,66 @@
+﻿Name,Quarter,Attainment Min,Attainment Max,Tier
+Bob,Q1,0,200000,Tier 1
+Bob,Q2,0,250000,Tier 1
+Bob,Q3,0,250000,Tier 1
+Bob,Q4,0,300000,Tier 1
+Jane,Q1,0,100000,Tier 1
+Jane,Q2,0,200000,Tier 1
+Jane,Q3,0,250000,Tier 1
+Jane,Q4,0,300000,Tier 1
+Joe,Q1,0,200000,Tier 1
+Joe,Q2,0,250000,Tier 1
+Joe,Q3,0,250000,Tier 1
+Joe,Q4,0,300000,Tier 1
+Lin,Q1,0,400000,Tier 1
+Lin,Q2,0,450000,Tier 1
+Lin,Q3,0,450000,Tier 1
+Lin,Q4,0,500000,Tier 1
+Bob,Q1,200001,300000,Tier 2
+Bob,Q2,250001,375000,Tier 2
+Bob,Q3,250001,375000,Tier 2
+Bob,Q4,300001,450000,Tier 2
+Jane,Q1,100001,150000,Tier 2
+Jane,Q2,200001,300000,Tier 2
+Jane,Q3,250001,375000,Tier 2
+Jane,Q4,300001,450000,Tier 2
+Joe,Q1,200001,300000,Tier 2
+Joe,Q2,250001,375000,Tier 2
+Joe,Q3,250001,375000,Tier 2
+Joe,Q4,300001,450000,Tier 2
+Lin,Q1,400001,600000,Tier 2
+Lin,Q2,450001,675000,Tier 2
+Lin,Q3,450001,675000,Tier 2
+Lin,Q4,500001,750000,Tier 2
+Bob,Q1,300001,9999999,Tier 3
+Bob,Q2,375001,9999999,Tier 3
+Bob,Q3,375001,9999999,Tier 3
+Bob,Q4,450001,9999999,Tier 3
+Jane,Q1,150001,9999999,Tier 3
+Jane,Q2,300001,9999999,Tier 3
+Jane,Q3,375001,9999999,Tier 3
+Jane,Q4,450001,9999999,Tier 3
+Joe,Q1,300001,9999999,Tier 3
+Joe,Q2,375001,9999999,Tier 3
+Joe,Q3,375001,9999999,Tier 3
+Joe,Q4,450001,9999999,Tier 3
+Lin,Q1,600001,9999999,Tier 3
+Lin,Q2,675001,9999999,Tier 3
+Lin,Q3,675001,9999999,Tier 3
+Lin,Q4,750001,9999999,Tier 3
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,Attainment Tiers and Multipliers,,,
+,Attainment Range (% of Quota),,Multiplier,
+,Tier 1: 0<= 100,,1,
+,Tier 2: 100 <= 150,,1.5,
+,Tier 3: 150<,,2,
