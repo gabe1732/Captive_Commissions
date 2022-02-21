@@ -9,10 +9,12 @@
   5. Find total Quota Attainment, Commission Earned, and commission released for each quarter... Answer in CaptivateIQ_summary_detail_solved
 
 ## files
-
-
   
-   
-## Results of refactoring and upgrading my code
-   Before refactoring my code to include an index of the tickers `Dim tickerIndex As Integer, tickerIndex = 0` the run
-   time for 2017 and 2018 were: 
+[CaptivateIQ_commission_detail_solved.csv](https://github.com/gabe1732/Captive_Commissions/files/8111144/CaptivateIQ_commission_detail_solved.csv)
+
+[CaptivateIQ - Arr Summary Data.csv](https://github.com/gabe1732/Captive_Commissions/files/8111146/CaptivateIQ.-.Arr.Summary.Data.csv)
+
+[CaptivateIQ_summary_detail_solved.csv](https://github.com/gabe1732/Captive_Commissions/files/8111151/CaptivateIQ_summary_detail_solved.csv)
+
+
+
